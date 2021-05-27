@@ -1,0 +1,24 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "ipaddress": {
+      "value": "xxx.xxx.xxx.xxx"
+    },
+    "vmsize": {
+      "value": "Standard_D4s_v3"
+    },
+    "vmuser": {
+      "value": "adminuser"
+    },
+    "UserObjectID": {
+      "value": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+    },
+    "sshPublicKey": {
+      "value": "xxxx"
+    },
+    "keyvaultName": {
+      "value": "xxxxx"
+    }
+  }
+}
