@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "ipaddress": {
-      "value": "xxx.xxx.xxx.xxx"
+      "value": "126.194.124.165"
     },
     "vmsize": {
       "value": "Standard_D4s_v3"
@@ -12,13 +12,13 @@
       "value": "adminuser"
     },
     "UserObjectID": {
-      "value": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+      "value": "c2b02b17-b26f-4dab-a3bb-a84a7c6a2339"
     },
     "sshPublicKey": {
-      "value": "xxxx"
+      "value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDT7w8o3iu8X3EaU8fB9K6MoOy0URmmYl+58l5ZQ6IEH3d+S6YVIQF5adi0gcG9uu683FEJY5lhnbCuQePOPk2TYYGZytd5gQdjvJUQsMWlxiWKkqJI2DiywUOb6GEmnGh5JDuYIz8yv2mcs7lBagz4Dr+5Cz+Xpy0iAHYgnm6hIErDsLTaz3Z3iedcycdJF7pSxMN7/GeMMAH9O51mPPHGWkmLYlVYWG6qMH0/gUik4MaEXfRGKtV3i7qVGE5oH0YPjqMIQANj3BnqhMn6lDHmCnXR3nZ49Qu1a1KpXRAv7NB5r22Nc1EbG1SgzCQBg/gFMX07IN+b1fvZdb+lQsXii4Xx1Wye2272eoFTxk0Y6AggKmb5/B2Tm2QxsA3OrgLiBENmxIkKUQ6NyYpTxGLu+QWOZc7E3W345OaoesGrQ0CdZfBLcUu8+qhDJWBVsqaUHFe+lHIKo6Q5YXrnALsSRLFA6jcw3xw/kS0cT8Ssi9VSowlUYy42zjfiBfyBH5uOkNzk1cOKiKbI6PxvoGMexgVtyja1P/KD1tmOfdi4vl1h0jGwjv48tPVgGhIGFrSJZB9N/l9g30ogqRJWI8VIV+Yd/6YqRLe4et/CUOo5sfZ1ETG0jwt9okeNkHW3I9OObsGrA2UOlGsOoIEy6EzNQVEeCRtPvpchZrJsj8cwhw== foo@sample.jpn.com"
     },
     "keyvaultName": {
-      "value": "xxxxx"
+      "value": "a20210527key160354"
     }
   }
 }
