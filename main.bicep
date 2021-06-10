@@ -8,9 +8,9 @@ param vmuser string
 param sshPublicKey string
 param keyvaultName string
 param UserObjectID string
-var vNetIpPrefix  = '192.168.0.0/24'
-var defaultSubnetIpPrefix = '192.168.0.0/27'
-var bastionSubnetIpPrefix = '192.168.0.32/27'
+var vNetIpPrefix  = '192.168.1.0/24'
+var defaultSubnetIpPrefix = '192.168.1.0/27'
+var bastionSubnetIpPrefix = '192.168.1.32/27'
 
 //Storage account for deployment scripts
 module storage 'storage-account.bicep' = {
